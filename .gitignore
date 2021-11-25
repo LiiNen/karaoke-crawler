@@ -1,3 +1,5 @@
 *.exe
 *.ipynb_checkpoints*
 .env
+*.xlsx
+*.csv
