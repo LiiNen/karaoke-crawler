@@ -3,3 +3,4 @@
 .env
 *.xlsx
 *.csv
+.DS_Store
